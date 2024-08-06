@@ -1,2 +1,0 @@
-"# opencv" 
-# OpenCV-python
